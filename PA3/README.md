@@ -5,6 +5,12 @@ This project is a student management system that handles academic data such as s
 
 The system is designed using object-oriented programming principles and supports operations such as course enrollment, grade assignment, and GPA calculation.
 
+## System Capabilities
+- Student enrollment to courses
+- GPA calculation based on grades
+- Course performance analysis
+- Relationship management between students, courses, and instructors
+
 ## Features
 - Manage students and academic members
 - Handle courses, departments, and programs
